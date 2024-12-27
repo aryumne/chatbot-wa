@@ -1,13 +1,23 @@
-## ⚡Quick Start
+## ⚡ Quick Start
 
-Download and Install [NodeJS](https://nodejs.org/en/download) >= 18.17.0
-1. Make chatflow using [FlowiseAI](https://flowiseai.com/), you can also install Flowise in your own device and running it in your local device.
-2. After chatflow is read, copy the url of the chatflow, and paste into index.js of this project. You can find it in the 11st line.
-3. Run this command to install the package 
-    ```bash
-    npm install
-    ```
-2. Start the server
-    ```bash
-    npm start
-    ```
+1. **Download and Install Node.js**  
+   Ensure you have [Node.js](https://nodejs.org/en/download) version **>= 18.17.0** installed on your system.
+
+2. **Create a Chatflow**  
+   - Use [FlowiseAI](https://flowiseai.com/) to create a chatflow.  
+   - You can also install Flowise on your device and run it locally.
+
+3. **Set Up the Chatflow URL**  
+   - After your chatflow is ready, copy the chatflow URL.  
+   - Paste the URL into the `index.js` file of this project at **line 11**.
+
+4. **Install Dependencies**  
+   Run the following command to install all required packages:  
+   ```bash
+   npm install
+   ```
+5. **Start the Server**  
+   Run the following command to install all required packages:  
+   ```bash
+   npm install
+   ```
