@@ -17,7 +17,7 @@
    npm install
    ```
 5. **Start the Server**  
-   Run the following command to install all required packages:  
+   Start the server using this command:
    ```bash
    npm install
    ```
